@@ -11,3 +11,5 @@ quotes = [
 
 print("💬 Motivational Quote of the Day:\n")
 print(random.choice(quotes))
+
+#Editat editat editat am editat am pushat din nou
