@@ -8,3 +8,4 @@ def generate_password(length=12):
 
 print("🔐 Your random password is:")
 print(generate_password())
+#editat push^
