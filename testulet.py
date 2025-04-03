@@ -7,4 +7,4 @@ for i in listt[:]:
         listt.remove(i)
 print(listt)
 
-    
+    #editat editat editat
